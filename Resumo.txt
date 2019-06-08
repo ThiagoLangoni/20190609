@@ -132,6 +132,17 @@ Coisas de Dev
 		
 		WAI-ARIA
 
+		Fizemos um index.html com os principais elemetos basicos do HTML
+
+	CSS
+
+		Seletores
+			Falamos sobre o seletores do css
+		Classes, IDs, Universal
+			
+
+	
+	
 
 
 
