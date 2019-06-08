@@ -1,0 +1,179 @@
+
+contrastchecker
+
+
+Historia sobre HTTP
+
+
+Tipos de Status
+
+Tipos de Site 
+
+	SPA
+	MarketPlace, E-Commerce
+	Pagina especifica de Produtos
+	Animadas
+	Painéis de Controle (Dashboard)
+	Formulários 
+	Redes Sociais
+	
+
+Coisas de Dev
+
+	Linguagens de Programação
+		JavaScript
+		Java
+		Utilização: Apis, Microservico
+
+	Linguagens de Marcação
+		Html
+		Xml
+		Utilização: DOM, tags
+	Linguagens de Estilo
+		Css
+		Utilização: Folha de estilo de paginas Web
+
+	Ferramentas
+		IDEs
+			VS Code
+			Sublime Text
+			Brackets
+			Intellij
+
+		SandBoxes
+			Codepen
+			CodeSandBox
+			JSFiddle
+
+		Repositorios/Versionamento
+			Git
+			Github
+
+	FrameWorks
+		
+		Bootstrap
+			Ampla ferramenta de ajuda pra desenv de Front End
+
+
+		Google Material
+
+			Ferrametas desenvolvida pelo google, impregando seu estilo proprio.
+
+		Jquery
+			Facilitador no desenvolvimento para manipular o DOM
+
+		Angular
+
+			Um completo framework para desenvolvimento front end
+
+
+	Devices
+		
+		Demonstrado os mais variados tipos de dispositivos para renderização de aplicativos.
+
+	Acessibilidade
+
+		Falado a importancia no cuidado do desenvolvimento de aplicativos pensando na acessibilidade de pessoas
+		que tem algum tipo de deficiencia
+
+		WCAG - para prova de daltonismo
+		
+		Sempre verificar a navegação por atalho
+
+		Aria - São varias labels colocado no html para descrever outros componentes
+
+	Performace 
+
+		Mencionado as formas de renderização das paginas, utilizar os Web Works Multi Thread
+
+		Camadas de renderização 
+			Layout
+			Sprites de imagens 
+			Conversão de imagens em base64
+
+	Processamento de uma página Web
+
+		Ordem de carregamento
+			JavaScript->Style->Layout->Paint->Composite
+
+	Segurança
+
+		Cors - Importancia de verificar os dominios que pode acessar uma determinada API
+		Varias formas de autenticação utilizando OAUTH, Dupla validação
+
+	Dados
+
+		Tipos de dados trafegados por HTTP/HTTPS: JSON,XML,text/plain,binarios 
+		Dados criptografados: Hash, md5
+
+		Tipos de dados do JSON: Números,Nulos,Booleanos,Textos,Objetos,Arrays
+
+	Amazenamentos de Dados
+
+		Banco de Dados: 
+			SQL: MySql, Oracle
+			NoSql: MongoDB, Cassandra, Redis
+
+		Web Storage
+			LocalStorage
+			SessionStorage
+			IndexedDB
+			Cookies
+			Cache
+
+	APIs
+
+		Demonstrado as diversos tipos de Web APIs: DOM,Streams,Storage,Fetch, WebSockets
+
+		Otima dica de utilizar o site can i use
+
+	HTML
+		Conhecemos os principais elementos do HTML
+		
+		WAI-ARIA
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+		
+
+
+
+
+
+
+ 
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
