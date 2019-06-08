@@ -140,6 +140,55 @@ Coisas de Dev
 			Falamos sobre o seletores do css
 		Classes, IDs, Universal
 			
+		Pseudo Classes
+			Aplica o css no elemento como um todo
+
+		Pseudo Elementos 
+			Aplica o css em partes dos elemetos 
+
+		Combinados e Multipos
+			E possivel aplicar estilos com base logica nas classes escolhidas: 
+				A, B
+				A B
+				A > B
+				A + B
+				A ~ B
+
+		Responsivo
+
+			Design Responsivo - Padrão desktop pro Mobile
+			Mobile First Desing - Mobile para o desktop
+
+		Media Queries
+
+			Facilitando a criação de um design adaptativo
+
+
+		BootStrap
+			
+
+		Sass
+			preparado para ter funções para criação de CSS
+
+		Animações
+			Preferir utilizar transform e opacity
+
+		Pós Processadores / Suporte
+
+							
+
+
+
+
+
+
+
+
+
+
+
+			
+	
 
 	
 	
